@@ -42,7 +42,7 @@ export function LoanAssistant() {
             <FileText className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-gray-900">Loan Assistant</h1>
+            <h1 className="text-2xl font-bold text-gray-900">TATA Capitals Loan Assistant</h1>
             <p className="text-sm text-gray-600">Your trusted NBFC partner</p>
           </div>
         </div>
