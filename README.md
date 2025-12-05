@@ -1,11 +1,1 @@
-
-  # Loan Application Process
-
-  This is a code bundle for Loan Application Process. The original project is available at https://www.figma.com/design/5vABWhq6GiD3M2Wa5bGSVV/Loan-Application-Process.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+Agentic AI Personal Loan Assistant that automates the full loan journey. Conversational chatbot handles lead engagement, KYC, credit checks, eligibility evaluation, and instant sanction letter generation. Includes Admin Panel to track applications, download sanction letters, and cancel loans if irregularities appear.
